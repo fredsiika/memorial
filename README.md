@@ -1,2 +1,2 @@
-# Dr. Amos Abuga Memorial
+# Memories
 
