@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Memorial Tributes
 
-You can use the [editor on GitHub](https://github.com/fredsiika/memorial-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Memorial Tribute Site
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+> "Their story. Your memories."
+
+Tell his legacy about how he lived, by leaving behind more of the story with a digital tribute.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some links to bookmark.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+Website resources:
+- **[Dr. Amos Abuga Memorial Service - Website](https://www.canva.com/design/DAE2IHhsXjM/gKvP-4cH1fOzUSqeSojp3g/view?website#4:cover-page)**
+- **[Tributes submitted by friends and family](https://www.canva.com/design/DAE2IHhsXjM/gKvP-4cH1fOzUSqeSojp3g/view?website#4:tribute-daughter)**
+- **[Order of Service](https://www.canva.com/design/DAE2IHhsXjM/gKvP-4cH1fOzUSqeSojp3g/view?website#4:service)**
+- **[Memorial Service Live Stream (replay)](https://www.youtube.com/watch?v=qFmAwPfq83A&t=4086s&ab_channel=AgrNewsTV)**
+PDF Download: 
+- **[Dr. Amos Abuga Memorial Service - PDF Download](https://drive.google.com/file/d/1aIt3qTj10u4YmZlQIBkVzKz-TRZBEIsh/view?usp=sharing)**
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Contribute
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fredsiika/memorial-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Want to contribute and/or support the family? Reach out to us at:
+
+- [Phone (WhatsApp]()
+- [Email](emailTo:)
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with any PDFs, pages or links? Contact me at [email](emailTo:fredsiika@gmail.com) and we’ll help you sort it out.
